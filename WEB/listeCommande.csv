@@ -1,0 +1,27 @@
+!Custom <liste de joueurs> , Créé 2 équipes aléatoires avec les joueurs donnés en paramètres et leur attribue un rôle + un champion
+!top, renvoie un toplaner aléatoire
+!jgl, renvoie un jungler aléatoire
+!mid, renvoie un midlaner aléatoire
+!adc, renvoie un adc aléatoire
+!sup, renvoie un support aléatoire
+!probuild <nom du champion >, renvoie un probuild du champion données en paramétre
+!vocalCustom, Comme !Custom sauf que les joueurs choisis sont ceux présent dans le même channel vocal de l'auteur du message
+!team , Créé 2 équipes aléatoires avec les joueurs choisis par l'auteur du message qu'importe le nombre de joueurs
+!listTop, renvoie la liste des toplaner
+!listJgl, renvoie la liste des jungler
+!listMid, renvoie la liste des midlaner
+!listAdc, renvoie la liste des adc
+!listSup, renvoie la liste des support
+!Among <liste de joueurs>, crée une partie d'Among Legend avec les 10 joueurs donnés en paramètres
+!rpc <J1 J2>, crée une partie de pierre feuille ciseaux avec les 2 joueurs donnés en paramètres
+!bitcoin, renvoie le prix du bitcoin et de l'etherum en temps réel
+!whoPokemon, Mini-jeu où le joueur doit deviner quel est le pokémon envoyé 
+!blindTest <artiste>, Mini-jeu où il faut retrouver la chanson de l'artiste donnée en paramètre grace aux paroles
+!trivia , Mini-jeu où il faut répondre à une question aléatoire
+!trivia <théme> , Mini-jeu où il faut répondre à une question aléatoire du thème donné en paramètre
+!trivia liste , donne la liste des thèmes disponible
+!whoLeague , Mini-jeu où il faut retrouver le champion de League of Legend grace à son lore
+!whoLeague Ultime , Mini-jeu où il faut retrouver le champion de League of Legend grace à son Ultime
+
+
+
